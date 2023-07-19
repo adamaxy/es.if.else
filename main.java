@@ -4,7 +4,7 @@ public class main {
         if (myName.length() % 2 == 0){
             System.out.println("il numero di lettere nel mio nome è pari");
         }
-        else {System.out.pgitrintln("il numero di lettere nel mio nome è dispari");
+        else {System.out.println("il numero di lettere nel mio nome è dispari");
 
         }
     }
